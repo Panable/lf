@@ -1,0 +1,7 @@
+set hidden true
+
+cmd trash ${{
+    trash "$f"
+}}
+
+map r trash
